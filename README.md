@@ -33,7 +33,7 @@ const pranav = {
   name: "Pranav L P",
   education: "BE in AI & Data Science @BGSCET'28, Bengaluru",
   focus: ["Agentic AI", "Multi-agent systems", "LLM integration", "Full-stack"],
-  currentlyBuilding: ["Sathya Drishti (SIH 2026)", "SNUFF", "3D Portfolio"],
+  currentlyBuilding: ["Sathya Drishti (SIH 2026)", "SNUFF"],
   funFact: "Learned n8n from scratch for a hackathon, now it's in every project 😅"
 };
 ```
