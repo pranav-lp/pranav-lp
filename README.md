@@ -68,7 +68,7 @@ const pranav = {
 | 🥈 First Runner-Up | **ANVATION 2026** (KSSEM, 24hr national) | Pehchaan, voice-matched multilingual content platform |
 | 🥈 2nd Place | **Physical AI ROBOTHON** (IEEE RAS, Team POWERHOUSE) | ROS + MoveIt + MuJoCo + LeRobot SO-101 |
 | 🥈 2nd Place | **TechVidya HACKBLAZE 2K25** | Hidden Gems |
-| 🥇 Top of dept | **BGSCET Ideathon 2026** (45/50) | Sathya Drishti |
+| 🥇 Top of dept | **BGSCET Ideathon 2026** | Sathya Drishti |
 
 ---
 
@@ -78,8 +78,6 @@ const pranav = {
 |---|---|---|
 | 🛰️ **Sathya Drishti** | Agentic vision-language assistant for remote-sensing image analysis (SIH 2026, ISRO/SAC) | Python, VLMs, React |
 | 🗣️ **Pehchaan** | Voice-matched multilingual social content platform for brands & influencers | React, FastAPI, Claude API |
-| 🏥 **Hospital OS** | Multi-agent RAG platform for hospitals | React, FastAPI, n8n, Supabase |
-| 🛡️ **SurakshaAI / Senior Shield** | Phishing protection for seniors across Android, Chrome extension & Gmail, custom BERT model (~60k examples) | BERT, Python, Twilio |
 | 🧠 **SNUFF** | Personal AI assistant: chat + document RAG + research agent | Python, LLMs |
 | ⚙️ **KAIROS** | Predictive maintenance system | Python, ML |
 | 🌌 **3D Portfolio** | Cinematic 3D portfolio with avatar intro and heavy motion | React, Three.js |
