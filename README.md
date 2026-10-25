@@ -80,8 +80,6 @@ const pranav = {
 | ⚙️ **KAIROS** | Predictive maintenance system | Python, ML |
 | 🌌 **3D Portfolio** | Cinematic 3D portfolio with avatar intro and heavy motion | React, Three.js |
 
-> 📌 Pin your best 6 repos on your profile so they show up under this section.
-
 ---
 
 ### 📊 GitHub Stats
