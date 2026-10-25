@@ -68,7 +68,7 @@ const pranav = {
 | 🥈 First Runner-Up | **ANVATION 2026** (KSSEM, 24hr national) | Pehchaan, voice-matched multilingual content platform |
 | 🥈 2nd Place | **Physical AI ROBOTHON** (IEEE RAS, Team POWERHOUSE) | ROS + MoveIt + MuJoCo + LeRobot SO-101 |
 | 🥈 2nd Place | **TechVidya HACKBLAZE 2K25** | Hidden Gems |
-| 🥇 Top of dept | **BGSCET Ideathon 2026** | Sathya Drishti |
+| 🥇 Winner | **BGSCET Ideathon 2026** | Sathya Drishti |
 
 ---
 
