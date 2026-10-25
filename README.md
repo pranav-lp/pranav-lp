@@ -33,9 +33,7 @@ Here are some ideas to get you started:
 ```js
 const pranav = {
   name: "Pranav L.P.",
-  handle: "dëāth",
   education: "B.E. in AI & Data Science @ BGSCET, Bengaluru (2024–2028)",
-  team: "Import Paradox",
   focus: ["Agentic AI", "Multi-agent systems", "LLM integration", "Full-stack"],
   currentlyBuilding: ["Sathya Drishti (SIH 2026)", "SNUFF", "3D Portfolio"],
   funFact: "Learned n8n from scratch for a hackathon, now it's in every project 😅"
