@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 ```js
 const pranav = {
-  name: "Pranav L.P.",
-  education: "B.E. in AI & Data Science @ BGSCET, Bengaluru (2024–2028)",
+  name: "Pranav L P",
+  education: "BE in AI & Data Science @BGSCET'28, Bengaluru",
   focus: ["Agentic AI", "Multi-agent systems", "LLM integration", "Full-stack"],
   currentlyBuilding: ["Sathya Drishti (SIH 2026)", "SNUFF", "3D Portfolio"],
   funFact: "Learned n8n from scratch for a hackathon, now it's in every project 😅"
@@ -78,7 +78,6 @@ const pranav = {
 | 🗣️ **Pehchaan** | Voice-matched multilingual social content platform for brands & influencers | React, FastAPI, Claude API |
 | 🧠 **SNUFF** | Personal AI assistant: chat + document RAG + research agent | Python, LLMs |
 | ⚙️ **KAIROS** | Predictive maintenance system | Python, ML |
-| 🌌 **3D Portfolio** | Cinematic 3D portfolio with avatar intro and heavy motion | React, Three.js |
 
 ---
 
