@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+agentic+AI+systems+%F0%9F%A4%96;3x+Hackathon+Runner-Up+%F0%9F%8F%86;%7C+SIH+2026+%F0%9F%9A%80;React+%2B+FastAPI+%2B+n8n+%2B+Claude+API+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+agentic+AI+systems;3x+Hackathon+Runner-Up+1x+Ideathon+%F0%9F%8F%86;%7C+SIH+2026+%F0%9F%9A%80;React+%2B+FastAPI+%2B+n8n+%2B+Claude+API+%E2%9A%A1)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pranav-lp&label=Profile%20Views&color=a855f7&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pranavlp-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavlp)
