@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Pranav%20L.P.&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Agentic%20AI%20Builder%20%7C%20Hackathon%20Grinder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Pranav%20LP&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <div align="center">
 
@@ -103,7 +103,7 @@ const pranav = {
 
 ### 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranav-lp&theme=react-dark&hide_border=true&bg_color=0d1117&color=a855f7&line=ec4899&point=ffffff" width="100%"/>
+<img src="https://ghchart.rshah.org/a855f7/pranav-lp" width="100%"/>
 
 ---
 
