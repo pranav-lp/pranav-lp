@@ -1,33 +1,31 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FF00CC,25:7928CA,55:007CF0,80:00DFD8,100:39FF14&text=PRANAV%20L.P.&fontSize=76&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEER%20IN%20PROGRESS%20%E2%80%A2%20BUILDER%20BY%20INSTINCT&descSize=15&descAlignY=58&animation=twinkling" alt="Colorful animated profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:FF00CC,25:7928CA,55:007CF0,80:00DFD8,100:39FF14&text=PRANAV%20L.P.&fontSize=78&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEER%20IN%20PROGRESS%20%E2%80%A2%20BUILDER%20BY%20INSTINCT&descSize=15&descAlignY=58&animation=fadeIn" alt="Pranav LP colorful gradient banner"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=800&height=55&lines=HELLO%2C+WORLD!+I'M+PRANAV+%F0%9F%91%BE;AI+%2B+DATA+SCIENCE+%3D+MY+PLAYGROUND+%F0%9F%A7%A0;BUILDING+AGENTS%2C+APPS+%26+INTELLIGENT+SYSTEMS+%E2%9A%A1;COMPETE.+CREATE.+BREAK.+REBUILD.+%F0%9F%94%A5" alt="Animated developer introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=800&height=45&lines=AI+%26+DATA+SCIENCE+%F0%9F%A7%A0;BUILDING+INTELLIGENT+SYSTEMS+%E2%9A%A1;AGENTIC+AI+%7C+COMPUTER+VISION+%7C+FULL+STACK;IDEAS+IN.+WORKING+PROTOTYPES+OUT.+%F0%9F%9A%80" alt="Animated introduction"/>
 
 <br/>
 
-### `01010000 01010010 01000001 01001110 01000001 01010110`
-
-**I don't just want to understand the future. I want to build a piece of it.**
+### I don't just want to understand the future. I want to build a piece of it.
 
 <br/>
 
 <a href="https://github.com/pranav-lp">
-<img src="https://img.shields.io/badge/GITHUB-FF00CC?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-FF00CC?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/pranavlp">
-<img src="https://img.shields.io/badge/LINKEDIN-0077FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0077FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/pranav-lp?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_MY_WORK-7928CA?style=for-the-badge&logo=rocket&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_MY_WORK-7928CA?style=for-the-badge&logo=rocket&logoColor=white" alt="Explore repositories"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/CREATIVITY-UNLIMITED-FF00CC?style=flat-square"/>
 <img src="https://img.shields.io/badge/CURIOSITY-ALWAYS_ON-00C9FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/CREATIVITY-UNLIMITED-FF00CC?style=flat-square"/>
 <img src="https://img.shields.io/badge/BUILD_MODE-ACTIVE-39FF14?style=flat-square"/>
 
 </div>
@@ -36,63 +34,53 @@
 
 <div align="center">
 
-## 🌈 WELCOME TO MY CORNER OF THE INTERNET
+## 🌈 WELCOME TO MY UNIVERSE
 
-### `WHERE CODE MEETS CREATIVITY AND IDEAS GET DANGEROUS.`
+### WHERE AI MEETS CREATIVITY AND IDEAS BECOME SYSTEMS.
 
 </div>
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
 
 Hey! I'm **Pranav L P** 👋
 
 🎓 AI & Data Science engineering student at **BGSCET, Bengaluru**.
 
-🤖 Fascinated by intelligent systems, agentic AI, computer vision, and the possibilities of machine learning.
+🧠 Interested in agentic AI, multi-agent systems, computer vision, and generative AI.
 
-⚡ I enjoy building software that combines AI, backend logic, thoughtful interfaces, and real-world problem-solving.
+⚙️ I enjoy connecting intelligent models with real applications, useful interfaces, and practical workflows.
 
-🏆 I compete in hackathons, experiment with new technologies, and learn by turning ideas into prototypes.
+🏆 Hackathon competitor, software builder, and enthusiastic problem-solver.
 
-🧪 Sometimes it works on the first try. Sometimes the terminal becomes my therapist.
+🚀 I learn by experimenting, building prototypes, breaking things, and figuring out how to make them better.
 
-**Either way, we ship eventually.** 🚀
-
-<br clear="right"/>
+I want to build more than a model that gives an answer. I want to build systems that understand context, use tools, solve problems, and make technology more useful.
 
 <div align="center">
 
-### 🧬 MY DEVELOPER DNA
-
-| 🧠 THINK | ⚙️ BUILD | 🚀 EXPLORE |
-|:---:|:---:|:---:|
-| Question everything | Turn ideas into prototypes | Push beyond the obvious |
-| Understand the problem | Make the system work | Learn something new |
-| Think in systems | Iterate relentlessly | Repeat 🔁 |
+**THINK BIG. BUILD FEARLESSLY. ITERATE RELENTLESSLY.**
 
 </div>
+
+<br clear="right"/>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:FF00CC,50:00C9FF,100:39FF14&section=header" width="100%" alt="Rainbow section divider"/>
+## 🧰 MY TECHNOLOGY PLAYGROUND
 
-# 🎨 THE TECHNOLOGY PLAYGROUND
+### THE TOOLS I USE TO TURN IDEAS INTO CODE
 
-### `MY TOOLS. MY EXPERIMENTS. MY SUPERPOWERS.`
+<br/>
 
-</div>
-
-<div align="center">
-
-### 💻 PROGRAMMING LANGUAGES
+**💻 PROGRAMMING**
 
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css&theme=dark" alt="Programming languages"/>
 
-### 🧠 AI / MACHINE LEARNING
+**🧠 AI & COMPUTER VISION**
 
-<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" alt="AI and computer vision tools"/>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" alt="AI and computer vision"/>
 
 <br/>
 
@@ -101,27 +89,25 @@ Hey! I'm **Pranav L P** 👋
 <img src="https://img.shields.io/badge/COMPUTER_VISION-007CF0?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NLP-00A896?style=for-the-badge"/>
 
-### 🌐 FULL-STACK DEVELOPMENT
+**🌐 WEB & BACKEND**
 
 <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,fastapi&theme=dark" alt="Web development tools"/>
 
-### 🗄️ DATA & INFRASTRUCTURE
+**🗄️ DATABASES & DEVELOPER TOOLS**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,docker,git,github,linux,vscode&theme=dark" alt="Databases and development tools"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,docker,git,github,linux,vscode&theme=dark" alt="Databases and developer tools"/>
 
 </div>
-
-> 💡 **My rule:** The technology is a tool, not the identity. I want to understand the problem well enough to choose the right tools for the job.
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:39FF14,50:00C9FF,100:FF00CC&section=header" width="100%" alt="Colorful section divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:FF00CC,50:007CF0,100:39FF14" width="100%" alt="Rainbow divider"/>
 
 # 🚀 THE BUILD ZONE
 
-### `IDEAS I'M EXPLORING AND SYSTEMS I'M BUILDING`
+### SIX IDEAS. SIX DIFFERENT PROBLEMS. ONE CONSTANT CURIOSITY.
 
 </div>
 
@@ -141,13 +127,11 @@ Hey! I'm **Pranav L P** 👋
 
 An interactive vision-language assistant concept for exploring remote-sensing imagery through natural-language queries.
 
-The goal is to make satellite imagery easier to investigate, understand, and interact with.
-
-**Exploring:**
-- 🛰️ Remote-sensing image analysis
+**Exploring**
+- 🌍 Satellite image understanding
 - 🧠 Vision-language models
-- 💬 Natural-language interaction
-- 🌍 Geospatial intelligence
+- 💬 Conversational image analysis
+- 🛰️ Remote-sensing applications
 
 <div align="center">
 
@@ -168,15 +152,13 @@ The goal is to make satellite imagery easier to investigate, understand, and int
 
 </div>
 
-An AI-powered personalized content-generation project focused on helping people create content that reflects their own voice and style.
+An AI-powered personalized content-generation project focused on creating social content that reflects an individual's voice and style.
 
-Because the best AI-generated content shouldn't feel like it was generated by the same AI as everyone else's.
-
-**Exploring:**
+**Exploring**
 - ✍️ Personalized content generation
-- 🧠 Voice and style adaptation
+- 🎨 Voice and style adaptation
 - 📱 Social-media content workflows
-- ⚡ AI-powered productivity
+- ⚡ AI-assisted productivity
 
 <div align="center">
 
@@ -191,7 +173,63 @@ Because the best AI-generated content shouldn't feel like it was generated by th
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/03-PERSONAL_AI-7928CA?style=for-the-badge&labelColor=101025"/>
+<img src="https://img.shields.io/badge/03-INDUSTRIAL_AI-7928CA?style=for-the-badge&labelColor=101025"/>
+
+## 🏭 Kairos
+
+**TIMING MAKES THE DIFFERENCE.**
+
+</div>
+
+An AI-orchestrated industrial intelligence concept focused on predictive maintenance, machine health, and operational efficiency.
+
+**Exploring**
+- ⚙️ Predictive maintenance
+- 📈 Machine anomaly detection
+- 🧠 Fleet-aware intelligence
+- 🌱 Industrial sustainability
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DOMAIN-PREDICTIVE_AI-7928CA?style=flat-square"/>
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/04-CREATOR_INTELLIGENCE-FF8A00?style=for-the-badge&labelColor=101025"/>
+
+## 📊 Veritas
+
+**LOOK BEYOND THE FOLLOWER COUNT.**
+
+</div>
+
+An influencer intelligence project focused on understanding creator authenticity, identifying suspicious follower patterns, and estimating engagement.
+
+**Exploring**
+- 🔎 Fake-follower detection
+- 📈 Engagement prediction
+- 📊 Creator analytics
+- 🎯 Data-driven influencer discovery
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DOMAIN-DATA_INTELLIGENCE-FF8A00?style=flat-square"/>
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/05-PERSONAL_AI-00BFA6?style=for-the-badge&labelColor=101025"/>
 
 ## 🧠 SNUFF AI
 
@@ -201,15 +239,15 @@ Because the best AI-generated content shouldn't feel like it was generated by th
 
 A personal AI assistant concept exploring more useful ways to interact with AI, retrieve information, and organize knowledge.
 
-**Exploring:**
+**Exploring**
 - 💬 Conversational AI
 - 📚 Context-aware assistance
-- 🔎 Document-based retrieval
+- 🔎 Information retrieval
 - 🔗 Automated workflows
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DOMAIN-PERSONAL_AI-7928CA?style=flat-square"/>
+<img src="https://img.shields.io/badge/DOMAIN-PERSONAL_AI-00BFA6?style=flat-square"/>
 
 </div>
 
@@ -218,7 +256,7 @@ A personal AI assistant concept exploring more useful ways to interact with AI, 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/04-HEALTHCARE_AI-39FF14?style=for-the-badge&labelColor=101025"/>
+<img src="https://img.shields.io/badge/06-HEALTHCARE_AI-39FF14?style=for-the-badge&labelColor=101025"/>
 
 ## 💚 CareSync AI
 
@@ -226,13 +264,13 @@ A personal AI assistant concept exploring more useful ways to interact with AI, 
 
 </div>
 
-An AI-assisted elderly-care concept designed around helping older adults maintain independence, safety, and well-being.
+An elderly-care concept designed to support independence, safety, well-being, and daily routine management.
 
-**Exploring:**
-- 💊 Routine and medication reminders
+**Exploring**
+- 💊 Medication and routine reminders
 - 🗣️ Voice-based interaction
 - 📅 Daily activity coordination
-- 💚 Supportive conversational experiences
+- 💚 Supportive AI experiences
 
 <div align="center">
 
@@ -246,56 +284,88 @@ An AI-assisted elderly-care concept designed around helping older adults maintai
 
 <div align="center">
 
-### ⚡ MORE EXPERIMENTS. MORE POSSIBILITIES.
-
 <a href="https://github.com/pranav-lp?tab=repositories">
-<img src="https://img.shields.io/badge/DISCOVER_ALL_REPOSITORIES-FF00CC?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-FF00CC?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
 </a>
 
 </div>
 
-> 🧪 **A note on project status:** The projects above represent concepts and development interests, not a claim that every project is production-ready. Explore the individual repositories for their current implementation status.
+<sub>Project descriptions communicate the intended focus of each project. Visit the corresponding repository for its actual implementation and current status.</sub>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:007CF0,50:7928CA,100:FF00CC&section=header" width="100%" alt="Colorful section divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:FFD700,50:FF00CC,100:007CF0" width="100%" alt="Achievement divider"/>
 
-# 🏆 THE COMPETITION ARC
+# 🏆 THE WIN WALL
 
-### `BUILD UNDER PRESSURE. LEARN AT FULL SPEED.`
+### FOUR COMPETITIONS. FOUR CASH PRIZES. MEMORIES THAT LAST.
 
 </div>
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/02ND_PLACE-FFD700?style=for-the-badge&labelColor=101025" alt="Second place"/>
+<img src="https://img.shields.io/badge/CHAMPION'S_MOMENT-FFD700?style=for-the-badge&labelColor=101025" alt="BGSCET Ideathon achievement"/>
 
-## 🤖 Physical AI ROBOTHON
+# 🥇
 
-**NATIONAL-LEVEL COMPETITION**
+## BGSCET IDEATHON
 
-Team POWERHOUSE secured **second place** in the finals, competing in physical AI challenges involving robotic manipulation.
+**BGSCET · IDEATHON**
 
-Challenges included object pick-and-place, charger plugging, and liquid pouring.
+💰 **₹1,000 CASH PRIZE**
 
-**Prize:** ₹10,000
+An idea brought to the table, tested through competition, and rewarded.
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/FIRST_RUNNER_UP-FF00CC?style=for-the-badge&labelColor=101025" alt="First runner-up"/>
+<img src="https://img.shields.io/badge/2ND_PLACE-00C9FF?style=for-the-badge&labelColor=101025" alt="Robothon second place"/>
 
-## ⚡ ANVATION 2026
+# 🤖
 
-**KSSEM · TEAM POWERHOUSE**
+## NATIONAL-LEVEL ROBOTHON
 
-Secured first runner-up with **Pehchaan**, an AI-powered personalized content-generation concept.
+**PHYSICAL AI · TEAM POWERHOUSE**
 
-An opportunity to put our ideas to the test, work as a team, and learn through competition.
+💰 **₹10,000 CASH PRIZE**
+
+Second place in the finals, competing in robotic manipulation challenges including pick-and-place, charger plugging, and liquid pouring.
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/2ND_PLACE-FF00CC?style=for-the-badge&labelColor=101025" alt="KSSEM second place"/>
+
+# ⚡
+
+## KSSEM HACKATHON
+
+**ANVATION 2026 · TEAM POWERHOUSE**
+
+💰 **₹15,000 CASH PRIZE**
+
+First runner-up with Pehchaan, our personalized AI content-generation project.
+
+</td>
+<td align="center" width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/2ND_PLACE-39FF14?style=for-the-badge&labelColor=101025" alt="SVIT second place"/>
+
+# 🚀
+
+## SVIT HACKATHON
+
+**SECOND PLACE**
+
+💰 **₹4,000 CASH PRIZE**
+
+Another competition, another challenge, and another experience to build on.
 
 </td>
 </tr>
@@ -303,9 +373,15 @@ An opportunity to put our ideas to the test, work as a team, and learn through c
 
 <div align="center">
 
-### 🥇 THE TROPHY IS NICE. THE EXPERIENCE IS BETTER.
+### 💰 TOTAL CASH PRIZES: ₹30,000
 
-*Every competition teaches me something the classroom alone cannot.*
+<img src="https://img.shields.io/badge/4_ACHIEVEMENTS-FF00CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/3_SECOND--PLACE_FINISHES-007CF0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ONE_BUILDING_MINDSET-39FF14?style=for-the-badge"/>
+
+<br/><br/>
+
+*The prize is great. The experience, teamwork, and lessons are worth even more.*
 
 </div>
 
@@ -313,34 +389,30 @@ An opportunity to put our ideas to the test, work as a team, and learn through c
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:FF00CC,50:39FF14,100:007CF0&section=header" width="100%" alt="Colorful section divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:00DFD8,50:7928CA,100:FF00CC" width="100%" alt="Statistics divider"/>
 
 # 📊 THE GITHUB ARCADE
 
-### `EVERY COMMIT IS ANOTHER REP.`
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/pranav-lp">
-
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=pranav-lp&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=101025&title_color=FF00CC&icon_color=00C9FF&text_color=FFFFFF&ring_color=39FF14" alt="GitHub statistics"/>
-
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-lp&layout=donut&hide_border=true&bg_color=101025&title_color=00C9FF&text_color=FFFFFF" alt="Most-used programming languages"/>
-
-<br/><br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=pranav-lp&hide_border=true&background=101025&ring=FF00CC&fire=FFD700&currStreakLabel=00C9FF&sideLabels=FFFFFF&currStreakNum=39FF14&sideNums=FF00CC&dates=BBBBCC" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pranav-lp&bg_color=101025&color=00C9FF&line=FF00CC&point=39FF14&area=true&hide_border=true&custom_title=PRANAV%27S%20CONTRIBUTION%20UNIVERSE" alt="GitHub contribution activity graph"/>
+### MY CODE. MY CONTRIBUTIONS. MY PROGRESS.
 
 <br/>
 
+<a href="https://github.com/pranav-lp">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=pranav-lp&show_icons=true&hide_border=true&bg_color=101025&title_color=FF00CC&icon_color=00C9FF&text_color=FFFFFF&rank_icon=github" alt="GitHub statistics"/>
+</a>
+
+<a href="https://github.com/pranav-lp">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-lp&layout=donut&hide_border=true&bg_color=101025&title_color=00C9FF&text_color=FFFFFF&langs_count=6" alt="Most-used programming languages"/>
+</a>
+
+<br/><br/>
+
+<img width="85%" src="https://streak-stats.demolab.com?user=pranav-lp&hide_border=true&background=101025&ring=FF00CC&fire=FFD700&currStreakLabel=00C9FF&sideLabels=FFFFFF&currStreakNum=39FF14&sideNums=FF00CC&dates=BBBBCC" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
 <a href="https://github.com/pranav-lp?tab=repositories">
-<img src="https://img.shields.io/badge/LESS_TALK._MORE_COMMITS.-7928CA?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_THE_CODE-7928CA?style=for-the-badge&logo=github&logoColor=white" alt="Explore code"/>
 </a>
 
 </div>
@@ -349,13 +421,13 @@ An opportunity to put our ideas to the test, work as a team, and learn through c
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:39FF14,50:007CF0,100:FF00CC&section=header" width="100%" alt="Colorful section divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:39FF14,50:007CF0,100:FF00CC" width="100%" alt="Contribution divider"/>
 
 # 🐍 THE CONTRIBUTION SNAKE
 
-### `EAT BUGS. NOT SLEEP. SOMETIMES BOTH.`
+### EVERY SQUARE IS A LITTLE PIECE OF THE JOURNEY.
 
-<img src="https://raw.githubusercontent.com/pranav-lp/pranav-lp/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution snake"/>
+<img src="https://raw.githubusercontent.com/pranav-lp/pranav-lp/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
 
 </div>
 
@@ -363,54 +435,39 @@ An opportunity to put our ideas to the test, work as a team, and learn through c
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:007CF0,50:FF00CC,100:39FF14&section=header" width="100%" alt="Colorful section divider"/>
-
 # 🔮 WHAT'S NEXT?
-
-### `THE ROADMAP IS A WORK IN PROGRESS.`
-
-</div>
 
 <table>
 <tr>
 <td align="center" width="33%">
 
-### 🧠
+## 🧠 GO DEEPER
 
-**GO DEEPER**
-
-Agentic AI, multi-agent orchestration, LLM applications, and multimodal systems.
+Agentic AI, multi-agent orchestration, LLM applications, and multimodal intelligence.
 
 </td>
 <td align="center" width="33%">
 
-### 🛠️
+## ⚙️ BUILD BETTER
 
-**BUILD BETTER**
-
-Cleaner architectures, reliable backends, better interfaces, and stronger engineering fundamentals.
+Reliable backends, thoughtful interfaces, clean architecture, and stronger engineering fundamentals.
 
 </td>
 <td align="center" width="33%">
 
-### 🌍
+## 🌍 MAKE IT MATTER
 
-**BUILD WITH PURPOSE**
-
-Healthcare, agriculture, accessibility, and tools that solve real problems.
+Healthcare, agriculture, accessibility, sustainability, and useful software for real problems.
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+<br/>
 
-### CURRENT OPERATING SYSTEM
-
-<img src="https://img.shields.io/badge/MODE-LEARNING-007CF0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ENERGY-OVERCLOCKED-FF00CC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IDEAS-TOO_MANY-39FF14?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EXCUSES-ZERO-FFD700?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CURRENT_MODE-LEARNING_AND_BUILDING-007CF0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IDEAS-ALWAYS_LOADING-FF00CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NEXT_MILESTONE-SOMETHING_MEANINGFUL-39FF14?style=for-the-badge"/>
 
 </div>
 
@@ -418,41 +475,29 @@ Healthcare, agriculture, accessibility, and tools that solve real problems.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:FF00CC,50:007CF0,100:39FF14&section=header" width="100%" alt="Colorful section divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:FF00CC,25:7928CA,55:007CF0,80:00DFD8,100:39FF14" width="100%" alt="Contact divider"/>
 
 # 🤝 LET'S BUILD SOMETHING INSANE.
 
-### `GREAT IDEAS GET BETTER WHEN GREAT PEOPLE BUILD THEM TOGETHER.`
+**Interesting problem? Ambitious idea? AI project worth exploring?**
 
-I'm interested in meeting developers, AI enthusiasts, researchers, and fellow builders who love experimenting with technology and solving interesting problems.
-
-**Have an idea? A challenge? Something that sounds impossible?**
-
-Let's talk. 🚀
+I'm always interested in learning, collaborating, and building things that push beyond the obvious.
 
 <br/>
 
 <a href="https://github.com/pranav-lp">
-<img src="https://img.shields.io/badge/EXPLORE_MY_CODE-FF00CC?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOLLOW_MY_JOURNEY-FF00CC?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/pranavlp">
-<img src="https://img.shields.io/badge/CONNECT_WITH_ME-007CF0?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LET'S_CONNECT-007CF0?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=pranav-lp&style=for-the-badge&color=7928CA&label=VISITORS+TO+MY+UNIVERSE" alt="Profile visitor counter"/>
+### STAY CURIOUS. BUILD BOLDLY. MAKE IT MATTER. 🚀
 
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:FF00CC,25:7928CA,55:007CF0,80:00DFD8,100:39FF14" width="100%" alt="Colorful footer"/>
 
-### 💫 ONE LAST THING
-
-**Stay curious. Build boldly. Make it matter.**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=900&color=FF00CC&center=true&vCenter=true&width=650&height=40&lines=THE+FUTURE+ISN%27T+BUILT+BY+SCROLLING.;BACK+TO+THE+TERMINAL.+%F0%9F%92%BB;SEE+YOU+IN+THE+NEXT+COMMIT.+%F0%9F%9A%80" alt="Animated closing message"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:FF00CC,25:7928CA,55:007CF0,80:00DFD8,100:39FF14" width="100%" alt="Colorful profile footer"/>
-
-<sub>Designed with curiosity 🌈 · Engineered with caffeine ☕ · Powered by imagination ⚡</sub>
+<sub>Pranav L P · AI & Data Science · Bengaluru, India</sub>
 
 </div>
