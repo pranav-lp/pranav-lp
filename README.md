@@ -1,125 +1,325 @@
 <!--
-**pranav-lp/pranav-lp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+    PRANAV.LP // PROFILE README
+    A little curiosity. A lot of execution.
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Pranav%20LP&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+agentic+AI+systems;3x+Hackathon+Runner-Up;1x+Ideathon+%F0%9F%8F%86;%7C+SIH+2026+%F0%9F%9A%80;React+%2B+FastAPI+%2B+n8n+%2B+Claude+API+%E2%9A%A1)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:111827,100:164e63&text=PRANAV.LP&fontColor=67E8F9&fontSize=70&fontAlignY=38&desc=BUILDING%20INTELLIGENT%20SYSTEMS%20%7C%20BREAKING%20BORING%20THINGS&descSize=13&descAlignY=60&animation=fadeIn&stroke=67E8F9&strokeWidth=1" width="100%" alt="Pranav LP futuristic profile banner"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pranav-lp&label=Profile%20Views&color=a855f7&style=for-the-badge)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pranavlp-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavlp)
-[![Gmail](https://img.shields.io/badge/Gmail-pranavworks.lp-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavworks.lp@gmail.com)
+<br/>
+
+<a href="https://github.com/pranav-lp">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&repeat=true&width=650&height=35&lines=AI+%26+DATA+SCIENCE+ENGINEER+IN+PROGRESS;BUILDING+AGENTS%2C+NOT+JUST+CHATBOTS;FROM+WILD+IDEAS+TO+WORKING+PROTOTYPES;HACKATHONS.+HARD+PROBLEMS.+REAL+EXECUTION." alt="Animated introduction"/>
+</a>
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-pranav--lp-0D1117?style=for-the-badge&logo=github&logoColor=67E8F9)](https://github.com/pranav-lp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=67E8F9)](https://www.linkedin.com/in/pranavlp)
+[![LeetCode](https://img.shields.io/badge/LeetCode-SOLVE-0D1117?style=for-the-badge&logo=leetcode&logoColor=FACC15)](https://leetcode.com/u/pranav_lp/)
+
+<br/>
+
+**`CURIOUS BY DEFAULT. BUILT TO EXPERIMENT.`**
+
+*Curiosity is my compiler. Execution is my output.*
 
 </div>
 
 ---
 
-### 👋 About Me
+## `01` / WHO AM I?
 
-```js
-const pranav = {
-  name: "Pranav L P",
-  education: "BE in AI & Data Science @BGSCET'28, Bengaluru",
-  focus: ["Agentic AI", "Multi-agent systems", "LLM integration", "Full-stack"],
-  currentlyBuilding: ["Sathya Drishti (SIH 2026)", "SNUFF"],
-  funFact: "Learned n8n from scratch for a hackathon, now it's in every project 😅"
-};
+```python
+class PranavLP:
+    def __init__(self):
+        self.name = "Pranav L P"
+        self.education = "AI & Data Science @ BGSCET"
+        self.graduation = 2028
+
+        self.interests = [
+            "Agentic AI & Multi-Agent Systems",
+            "Computer Vision & Multimodal AI",
+            "Generative AI & LLM Applications",
+            "Cybersecurity",
+            "Full-Stack Engineering",
+        ]
+
+        self.current_mission = (
+            "Turn ambitious ideas into useful, working systems."
+        )
+
+        self.mindset = "Learn fast. Build relentlessly. Iterate."
+
+    def philosophy(self):
+        return "If it can be built, let's prototype it."
+```
+
+I'm an AI & Data Science engineering student who loves exploring the space between **what AI can do today and what we could make it do tomorrow.**
+
+My playground includes intelligent agents, vision-language systems, automation, and full-stack applications. I enjoy taking messy real-world problems, breaking them down, and building prototypes that make the solution tangible.
+
+I don't want to stop at making a model produce an answer. I want to understand the system around it: the data, the tools, the workflow, the interface, and the experience of the person using it.
+
+Currently learning, building, competing, and figuring things out one ambitious project at a time.
+
+> **The goal isn't to use AI everywhere. It's to know where intelligence actually makes a difference.**
+
+---
+
+## `02` / THE BUILD LAB
+
+<div align="center">
+
+### SELECTED EXPERIMENTS & ENGINEERING PROJECTS
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛰️ Sathya Drishti
+**MULTIMODAL AI / REMOTE SENSING**
+
+An interactive vision-language assistant designed to help users explore remote-sensing imagery through natural-language queries.
+
+The idea: make satellite imagery easier to investigate without requiring every user to be a remote-sensing specialist.
+
+`Vision-Language Models` `Python` `React`
+
+**Focus:** Earth observation × conversational AI
+
+</td>
+<td width="50%" valign="top">
+
+### 🗣️ Pehchaan
+**GENERATIVE AI / PERSONALIZATION**
+
+An AI-powered content platform built around a simple idea: generated content should sound like the person publishing it.
+
+Designed for personalized, platform-specific content across Instagram, LinkedIn, and X.
+
+`React` `FastAPI` `LLM APIs`
+
+**Tagline:** Posts that sound like you.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 SNUFF AI
+**PERSONAL AI / AGENTIC SYSTEMS**
+
+A personal AI assistant concept combining conversational interaction, document-based question answering, and research workflows.
+
+The ambition is to move beyond isolated prompts towards a more useful, context-aware assistant.
+
+`Python` `LLMs` `RAG`
+
+**Focus:** Intelligence that works with context.
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ VeriSight AI
+**CYBERSECURITY / AI**
+
+An anti-phishing system concept designed to identify suspicious links, QR codes, emails, and social content.
+
+Combines multiple detection approaches to help users recognize potential digital threats.
+
+`FastAPI` `NLP` `OCR` `Computer Vision`
+
+**Focus:** Making digital trust easier to evaluate.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![Explore Repositories](https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=67E8F9)](https://github.com/pranav-lp?tab=repositories)
+
+</div>
+
+---
+
+## `03` / PROOF OF EXECUTION
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/02ND_PLACE-NATIONAL_LEVEL-0891B2?style=for-the-badge&labelColor=0D1117" alt="Second place"/>
+
+### 🤖 Physical AI ROBOTHON
+
+**National-level competition**
+
+Team POWERHOUSE secured second place, competing in physical AI and robotic manipulation challenges involving object pick-and-place, charger plugging, and liquid pouring.
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/02ND_PLACE-ANVATION_2026-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Second place"/>
+
+### ⚡ ANVATION 2026
+
+**KSSEM · Team POWERHOUSE**
+
+A second-place finish with **Pehchaan**, our AI-powered personalized content platform built around voice-matched content generation.
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/1ST_PLACE-BGSCET_IDEATHON_2026-16A34A?style=for-the-badge&labelColor=0D1117" alt="First place"/>
+
+### 🏆 BGSCET Ideathon 2026
+
+First-place finish with **Sathya Drishti**, an idea focused on making remote-sensing imagery accessible through conversational AI.
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/02ND_PLACE-TECHVIDYA_HACKBLAZE_2K25-CA8A04?style=for-the-badge&labelColor=0D1117" alt="Second place"/>
+
+### 💡 TechVidya HACKBLAZE 2K25
+
+Second-place finish with **Hidden Gems**.
+
+Another reminder that ideas become more interesting when you put them to the test.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## `04` / MY ENGINEERING TOOLKIT
+
+<div align="center">
+
+### LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css&theme=dark" alt="Programming languages"/>
+
+### AI / DATA / AUTOMATION
+
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,fastapi,docker&theme=dark" alt="AI and backend technologies"/>
+
+### WEB / BACKEND / DATABASES
+
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb,supabase,git,github&theme=dark" alt="Web development and infrastructure"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Exploring-Agentic_AI-0D1117?style=flat-square&logo=openai&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/Exploring-RAG_%26_LLMs-0D1117?style=flat-square&logo=googlegemini&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/Exploring-Computer_Vision-0D1117?style=flat-square&logo=opencv&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/Exploring-Multi--Agent_Systems-0D1117?style=flat-square&logo=probot&logoColor=67E8F9"/>
+
+</div>
+
+*My toolkit evolves with the problem. I care more about understanding why a technology belongs in a solution than using it just because it's trending.*
+
+---
+
+## `05` / GITHUB TELEMETRY
+
+<div align="center">
+
+<a href="https://github.com/pranav-lp">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=pranav-lp&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA&text_color=C9D1D9&ring_color=67E8F9&include_all_commits=true" alt="GitHub statistics"/>
+</a>
+
+<a href="https://github.com/pranav-lp">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-lp&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9" alt="Most-used languages"/>
+</a>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=pranav-lp&hide_border=true&background=0D1117&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranav-lp&bg_color=0D1117&color=67E8F9&line=A78BFA&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity"/>
+
+</div>
+
+---
+
+## `06` / THE CONTRIBUTION MATRIX
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/pranav-lp/pranav-lp/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake"/>
+
+</div>
+
+---
+
+## `07` / CURRENT DIRECTIVE
+
+```text
+[ STATUS ]    LEARNING / BUILDING / ITERATING
+
+[ FOCUS ]
+    -> Agentic AI and multi-agent orchestration
+    -> Multimodal AI and computer vision
+    -> Useful AI products with real interfaces
+    -> Better engineering fundamentals
+
+[ LOOKING FOR ]
+    -> Interesting problems
+    -> Hackathon teammates
+    -> Open-source collaborations
+    -> AI/ML internship opportunities
+
+[ NEXT MILESTONE ]
+    Build something worth remembering.
 ```
 
 ---
 
-### 🛠️ Tech Stack
+## `08` / OPEN A CONNECTION
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Got an interesting problem? Let's build something.**
 
-</div>
+I'm open to collaborating with people who enjoy experimentation, ambitious ideas, and turning concepts into working software.
 
----
+<br/>
 
-### 🏆 Hackathon Wins
+<a href="https://github.com/pranav-lp">
+<img src="https://img.shields.io/badge/EXPLORE_THE_CODE-0D1117?style=for-the-badge&logo=github&logoColor=67E8F9"/>
+</a>
+<a href="https://www.linkedin.com/in/pranavlp">
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=67E8F9"/>
+</a>
+<a href="https://leetcode.com/u/pranav_lp/">
+<img src="https://img.shields.io/badge/FIND_ME_ON_LEETCODE-0D1117?style=for-the-badge&logo=leetcode&logoColor=FACC15"/>
+</a>
 
-| 🏅 Result | Event | Project |
-|---|---|---|
-| 🥇 Winner | **BGSCET Ideathon 2026** | Sathya Drishti |
-| 🥈 2nd Place | **ANVATION 2026** (KSSEM, 24hr national) | Pehchaan, voice-matched multilingual content platform |
-| 🥈 2nd Place | **Physical AI ROBOTHON** (IEEE RAS) | ROS + MoveIt + MuJoCo + LeRobot SO-101 |
-| 🥈 2nd Place | **TechVidya HACKBLAZE 2K25** | Hidden Gems |
+<br/><br/>
 
+<img src="https://komarev.com/ghpvc/?username=pranav-lp&style=for-the-badge&color=0891B2&label=PROFILE+VISITORS" alt="Profile visitor counter"/>
 
----
+<br/><br/>
 
-### 🚀 Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:164e63,50:111827,100:050816" width="100%" alt="Footer"/>
 
-| Project | What it does | Stack |
-|---|---|---|
-| 🛰️ **Sathya Drishti** | Agentic vision-language assistant for remote-sensing image analysis (SIH 2026, ISRO/SAC) | Python, VLMs, React |
-| 🗣️ **Pehchaan** | Voice-matched multilingual social content platform for brands & influencers | React, FastAPI, Claude API |
-| 🧠 **SNUFF** | Personal AI assistant: chat + document RAG + research agent | Python, LLMs |
-| ⚙️ **KAIROS** | Predictive maintenance system | Python, ML |
+<sub>Designed with curiosity. Driven by experiments. Powered by too many ideas.</sub>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=pranav-lp&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-lp&theme=radical&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-lp&layout=compact&theme=radical&hide_border=true&langs_count=8" height="160"/>
-
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<img src="https://ghchart.rshah.org/a855f7/pranav-lp" width="100%"/>
-
----
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranav-lp/pranav-lp/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranav-lp/pranav-lp/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/pranav-lp/pranav-lp/output/github-snake.svg" />
-</picture>
-
----
-
-<div align="center">
-
-### 🤝 Let's Connect
-
-Open to hackathon teams, collabs and internships.
-
-[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/pranavlp)
-[![Email](https://img.shields.io/badge/-Email_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pranavworks.lp@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%"/>
+<sub>© Pranav L P · Keep building.</sub>
 
 </div>
